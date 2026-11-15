@@ -28,6 +28,7 @@ new context sensitive HUD. Removed control guides from bottom of screen.
 * Now with themes and in-game customizable layout!
 * Assign multiple items from Items menu: up to 3 extra item slots on L, X (or B) and R.
 * Context sensitive A/ZR buttons that flip dynamically N64 style
+* Move, resize or hide the game's hearts, magic meter, D-pad row and map too
 * Removed Tutorials/Control Guides
 
 ## How to use it
@@ -41,6 +42,10 @@ this reason Swap Jump Controls is recommended, but it works either way.
 With the Put Away button now free for an item slot, Put Away is on A when you're standing still, like the original
 game. It won't happen while you're targeting with ZL, and with a bomb out A drops it instead.
 
+While targeting with ZL, A says Jump when the stick is held back or to the side (back flip, side hop), and A with the
+stick centered does the jump attack without having to hold forward. On a horse, A says Go and the jump button says
+Dismount.
+
 All tutorial control guides are removed for cleaner look and moved to the A and ZR buttons that are context sensitive
 and flip N64 style when they change. Shows ammo counts and casts left for magic spells. The pause menu shows your
 assignments under the rupee counter.
@@ -52,7 +57,7 @@ Click both sticks together when playing or paused to enter edit mode. Controls a
 | Button | Does |
 |---|---|
 | L / R | Switch layout, currently three themes: Default button diamond, item slots only, and N64 style. |
-| Left stick ← / → | Cursor selects between whole cluster or individual element |
+| Left stick ← / → | Cursor selects between whole cluster or individual element, then (while playing) the game's hearts, magic meter, D-pad row and map. These keep the same place in every layout. |
 | Left stick ↑ / ↓ | Adjust scale |
 | Right stick ↑ / ↓ | Adjust opacity |
 | D-pad | Adjust position |
