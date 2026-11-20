@@ -17,11 +17,18 @@ N64 Layout
 <img width="497" height="142" alt="N64 layout" src="images/n64-layout.png" />
 
 
-**[Download the latest version](../../releases/latest)**: `Classic-Item-Slots-vX.zip` (Switch buttons), `-Xbox` or
-`-PlayStation`. Install only one.
-
 Legacy style item buttons: ZR plus three extra item slots (X, L, R), set separately for young and adult Link, with a
 new context sensitive HUD. Removed control guides from bottom of screen.
+
+## Download
+
+Version 1.4.6:
+
+- **Lichii**: [Classic-Item-Slots-v1.4.6.zip](https://github.com/sonofsilvanus/OoTNS2-Classic-Item-Slots/releases/download/v1.4.6/Classic-Item-Slots-v1.4.6.zip) (Switch buttons), [Classic-Item-Slots-v1.4.6-Xbox.zip](https://github.com/sonofsilvanus/OoTNS2-Classic-Item-Slots/releases/download/v1.4.6/Classic-Item-Slots-v1.4.6-Xbox.zip) or [Classic-Item-Slots-v1.4.6-PlayStation.zip](https://github.com/sonofsilvanus/OoTNS2-Classic-Item-Slots/releases/download/v1.4.6/Classic-Item-Slots-v1.4.6-PlayStation.zip). Install only one.
+- **Longshot (PC)**: [Longshot-OoT-Mods-v2.zip](https://github.com/sonofsilvanus/OoTNS2-Classic-Item-Slots/releases/download/v1.4.6/Longshot-OoT-Mods-v2.zip) (see [Longshot (PC)](#longshot-pc) below).
+
+**[Download the latest version](../../releases/latest)**: `Classic-Item-Slots-vX.zip` (Switch buttons), `-Xbox` or
+`-PlayStation`. Install only one.
 
 ## Features
 
@@ -30,6 +37,13 @@ new context sensitive HUD. Removed control guides from bottom of screen.
 * Context sensitive A/ZR buttons that flip dynamically N64 style
 * Move, resize or hide the game's hearts, magic meter, D-pad row and map too
 * Removed Tutorials/Control Guides
+
+### What's new in v1.4.6
+
+* Targeting (ZL), stick centred: A does the jump attack only while the sword (or a Deku Stick) is out. Otherwise you get the game's own targeted roll, and you stay targeting.
+* HUD editor: your layout is now kept in option.sav and shared by every save. Older saves' settings move there the first time they load.
+* HUD editor: the hearts, magic meter, D-pad row and map can each be made see-through.
+* Faster: the game's state is looked up once per controller read.
 
 ## How to use it
 
@@ -93,7 +107,7 @@ Planned: Incorporating edit mode into in-game options menu.
 
 ## Longshot (PC)
 
-**Longshot OoT Mods** is an all-in-one installer for Longshot that installs Classic Item Slots together with the author's other mods, without them undoing each other. Download `Longshot-OoT-Mods-v2.zip` from this repository's [Releases](https://github.com/sonofsilvanus/OoTNS2-Classic-Item-Slots/releases). Tested on Longshot nightly-623.
+**Longshot OoT Mods** is an all-in-one installer for Longshot that installs Classic Item Slots together with the author's other mods, without them undoing each other. Download `Longshot-OoT-Mods-v2.zip` from the [Download](#download) section above. Tested on Longshot nightly-623.
 
 | Mod | What it does |
 |---|---|
