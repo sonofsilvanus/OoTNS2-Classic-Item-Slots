@@ -1,4 +1,4 @@
-# Classic Item Slots & Smart HUD
+# Classic Item Slots, Smart HUD, and Classic Tweaks
 
 *Code written with AI assistance (Claude Opus 5.5)*
 
