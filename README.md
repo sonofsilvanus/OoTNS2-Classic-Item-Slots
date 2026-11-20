@@ -113,7 +113,7 @@ Planned: Incorporating edit mode into in-game options menu.
 
 ## Longshot (PC)
 
-**Longshot OoT Mods** is an all-in-one installer for Longshot that installs Classic Item Slots together with the author's other mods, without them undoing each other. Download `Longshot-OoT-Mods-v2.zip` from the [Download](#download) section above. Tested on Longshot nightly-623.
+**Longshot OoT Mods** is an all-in-one installer for Longshot that installs Classic Item Slots together with other tweaks, answer y/n per mod. Download `Longshot-OoT-Mods-v2.zip` from the [Download](#download) section above. Tested on Longshot nightly-623.
 
 | Mod | What it does |
 |---|---|
