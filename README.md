@@ -114,7 +114,7 @@ Planned: Incorporating edit mode into in-game options menu.
 | Classic Item Slots v1.4.6 | N64-style item buttons: ZR plus X, L, R slots per age, new HUD, live HUD editor. Standard, Xbox or PlayStation button art. |
 | Classic Enemy Respawn v2 | Dungeon enemies respawn when you leave a room and come back. |
 | Classic Targeting v1 (experimental) | Classic-style targeting and aiming. Experimental on Longshot. |
-| No Melee Auto-aim | Link no longer turns or slides toward a nearby enemy when swinging without Z-targeting. |
+| No Melee Auto-aim | Link no homes/turns/slides toward a nearby enemy/object when swinging without Z-targeting. |
 | Classic Hit Sounds | N64-style sword and projectile hit sounds (sound files only). |
 | Classic Puzzle Chime | The N64 puzzle-solved chime (sound files only). |
 
