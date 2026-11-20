@@ -46,7 +46,6 @@ Version 1.4.6:
 
 ### What's new in v1.4.6
 
-* Targeting (ZL), stick centred: A does the jump attack only while the sword (or a Deku Stick) is out. Otherwise you get the game's own targeted roll, and you stay targeting.
 * HUD editor: your layout is now kept in option.sav and shared by every save. Older saves' settings move there the first time they load.
 * HUD editor: the hearts, magic meter, D-pad row and map can each be made see-through.
 * Faster: the game's state is looked up once per controller read.
