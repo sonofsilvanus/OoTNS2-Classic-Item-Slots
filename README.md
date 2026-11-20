@@ -91,6 +91,21 @@ languages work, but the pause menu tab hints still show L/R.
 Additional features are WIP, mod is not thoroughly tested in all scenarios. Xbox/PS layouts untested.
 Planned: Incorporating edit mode into in-game options menu.
 
+## Longshot (PC)
+
+**Longshot OoT Mods** is an all-in-one installer for Longshot that installs Classic Item Slots together with the author's other mods, without them undoing each other. Download `Longshot-OoT-Mods-v2.zip` from this repository's [Releases](https://github.com/sonofsilvanus/OoTNS2-Classic-Item-Slots/releases). Tested on Longshot nightly-623.
+
+| Mod | What it does |
+|---|---|
+| Classic Item Slots v1.4.6 | N64-style item buttons: ZR plus X, L, R slots per age, new HUD, live HUD editor. Standard, Xbox or PlayStation button art. |
+| Classic Enemy Respawn v2 | Dungeon enemies respawn when you leave a room and come back. |
+| Classic Targeting v1 (experimental) | Classic-style targeting and aiming. Experimental on Longshot. |
+| Disable snap-to-target v2 | Link no longer turns or slides toward a nearby enemy when swinging without Z-targeting. |
+| Classic Hit Sounds | N64-style sword and projectile hit sounds (sound files only). |
+| Classic Puzzle Chime | The N64 puzzle-solved chime (sound files only). |
+
+Run `Install or remove mods.cmd`, answer y/n per mod, then press Build in the Longshot Launcher. Use it instead of Classic Item Slots v1.4.6's own Longshot installer, which leaves a file in `.longshot_exefs` that breaks Longshot's build.
+
 ## How it was made
 
 - `src/slots.c`, `src/hooks.S`: the mod, freestanding ARM64 C, linked by `src/link_module.ld` into its own code module
