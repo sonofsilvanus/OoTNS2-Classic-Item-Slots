@@ -133,7 +133,7 @@ Planned: Incorporating edit mode into in-game options menu.
 | Classic Hit Sounds | N64-style sword and projectile hit sounds (sound files only). |
 | Classic Puzzle Chime | The N64 puzzle-solved chime (sound files only). |
 
-Run `Install or remove mods.cmd`, answer y/n per mod, then press Build in the Longshot Launcher. Use it instead of Classic Item Slots v1.4.6's own Longshot installer, which leaves a file in `.longshot_exefs` that breaks Longshot's build.
+Run `Install or remove mods.cmd`, answer y/n per mod, then press Build in the Longshot Launcher.
 
 ## How it was made
 
