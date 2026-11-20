@@ -37,6 +37,12 @@ Version 1.4.6:
 * Context sensitive A/ZR buttons that flip dynamically N64 style
 * Move, resize or hide the game's hearts, magic meter, D-pad row and map too
 * Removed Tutorials/Control Guides
+* Features from other mods:
+  * Classic Enemy Respawn: dungeon enemies respawn when you leave a room and come back.
+  * Classic Targeting: classic-style Z-targeting and aiming.
+  * Disable Snap-to-Target: Link no longer homes or slides toward nearby enemies/objects when you swing without targeting.
+  * Classic Hit Sounds: N64-style sword and projectile hit sounds.
+  * Classic Puzzle Chime: the N64 puzzle-solved chime.
 
 ### What's new in v1.4.6
 
