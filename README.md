@@ -92,11 +92,21 @@ Click both sticks together when playing or paused to enter edit mode. Controls a
 - Tested with Lichii, launching the game's .nup (booting an extracted folder won't load the mod's code and the game
   won't start)
 
-## Install
+## Install (Lichii)
 
 1. Right click game > Configure game
 2. Import mod from ZIP
 3. Toggle it on
+
+## Install (Longshot)
+
+* Ensure Longshot Launcher is up to date and game is on latest nightly, tested on v623 as of latest build.
+* Build the game once in the Longshot Launcher if you never have.
+* Ensure Longshot Launcher is up to date and game is on latest nightly,
+* Extract the whole ZIP anywhere and double-click Install or remove mods.cmd. If Windows warns, choose More info > Run anyway (the scripts are plain text).
+* It finds your Longshot game folder (or asks), checks it, then asks y/n per mod. Enter keeps a mod as it is. It shows the plan and asks "Go?" before changing anything.
+* Rebuild the game from the Longshot Launcher to the same directory, then play!
+* To remove a mod, run it again, answer n for that mod, then Build.
 
 ## Uninstall
 
